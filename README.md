@@ -1,6 +1,8 @@
 # NLP - Google Cloud Platform and Amazon Web Services
 
-
+<p align="center">
+  <img width="400" src="2.png">
+</p>
 
 This notebook analyze a piece of Airbnb data in Boston area and conducts sentimental analysis of comments. The main goal of this project is to utilize AWS and GCP platforms conduct sentimental analysis and provides AWS and GCP beginners with a tutorial to explore text data. 
 
