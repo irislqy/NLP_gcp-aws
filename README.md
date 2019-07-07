@@ -16,9 +16,9 @@ Table of Content
   <br>3.1 Create API Config and Text Comprehend API call
   <br>3.2 Comprehend: Review
   <br>3.3 Comprehend: EDA
-    <br>3.3.1 Review Scores Rating Distribution
-    <br>3.3.2 Host Response Time Distribution in Sentiment
-    <br>3.3.3 WordCloud NLTK
+      <br> > 3.3.1 Review Scores Rating Distribution
+      <br> > 3.3.2 Host Response Time Distribution in Sentiment
+      <br> > 3.3.3 WordCloud NLTK
 4. GCP
   <br>4.1 Set up API
   <br>4.2 Entity Analysis
