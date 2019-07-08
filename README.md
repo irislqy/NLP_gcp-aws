@@ -25,5 +25,5 @@ Table of Content
   <br>4.3 Text Analysis: Sentiment Score
   <br>4.4 Translation
   <br>4.5 Sentiment Analysis: Airbnb Data
-5. Benchmarking: AWS and GCP Sentiment Analysis Result Comprison
+5. Benchmarking: AWS and GCP Sentiment Analysis Result Comparison
 6. Conclusion
